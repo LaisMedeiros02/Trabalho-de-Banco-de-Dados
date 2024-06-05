@@ -1,2 +1,11 @@
 # Trabalho-de-Banco-de-Dados
-Trabalho desenvolvido por Eduardo Miguel Santos; Gabriel Lopes; Laís Medeiros; Letícia Medeiros e Roberta Sued Nascimento.
+Componentes:
+Eduardo Miguel Santos - https://github.com/TrMiguelTr/Trabalho-.3
+
+Gabriel Lopes - https://github.com/Gabriel-lgui/Zool-gico-Banco-de-dados
+
+Laís Medeiros -
+
+Letícia Medeiros - 
+
+Roberta Sued Nascimento -
