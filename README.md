@@ -1,4 +1,7 @@
 # Trabalho-de-Banco-de-Dados
+
+Vídeo produzido pela equipe: https://youtube.com/watch?v=xxUT7TikN5s&feature=shared
+
 Componentes:
 
 Eduardo Miguel Santos - https://github.com/TrMiguelTr/Trabalho-.3
